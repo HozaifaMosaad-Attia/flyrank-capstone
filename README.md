@@ -1,4 +1,7 @@
-# flyrank-capstone
-FlyRank internship capstone project
- 
-A capstone project built during the FlyRank AI internship. 
+# FlyRank Capstone
+
+Capstone project from the FlyRank AI internship.
+
+**Stack:** React, TypeScript, and Node.js.
+
+The repo is still in early setup (no app code yet). See `LICENSE` for MIT terms.
